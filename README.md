@@ -42,7 +42,8 @@ node index.js
 sim: HSb1506be651dee8302222b88bcb75de08(inactive)
 sim: HS5d64d9ff63ed92db02254664ade20d93(inactive)
 sim: HSbe2f7230058c05a1e4dbfbb31efe86bd(new)
-*** account2(active) ***```
+*** account2(active) ***
+```
 
 ## 制限事項
 
